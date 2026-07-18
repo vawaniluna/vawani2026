@@ -1,7 +1,5 @@
 this is a git test file. i want to push it to repo. fetch test
 pull test.
-<<<<<<< HEAD
 add from working directory.
-=======
 added from repo
->>>>>>> 50c2147e697febb5115f8b2834f506283e13dde0
+
